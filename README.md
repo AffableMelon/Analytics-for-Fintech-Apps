@@ -1,8 +1,5 @@
 # Analytics-for-Fintech-Apps
 
-A collection of Jupyter notebooks demonstrating analytics and machine learning approaches commonly used in fintech applications. This repository focuses on exploratory analysis, feature engineering, modeling, and visualization for problems like credit scoring, churn prediction, fraud detection, user segmentation, and product analytics.
-This repository is notebook-first (most content is in Jupyter Notebooks), supplemented by helper scripts and visualizations.
-
 ## Purpose
 Analyzing customer satisfaction with mobile banking apps by collecting and processing user reviews from the Google Play Store for three Ethiopian banks:
 - Commercial Bank of Ethiopia (CBE)
