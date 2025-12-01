@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   bnk-db:
     image: postgres:latest
