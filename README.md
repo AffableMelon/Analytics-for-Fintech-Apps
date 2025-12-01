@@ -19,6 +19,9 @@ python3 -m venv .venv
 source .venv/bin/activate.fish
 pip install -r requirements.txt
 ```
+
+### Database Information
+To get information on how to instance the database, please read the [Database Setup file](./sql/README.md).
 ## Project structure (suggested)
 - src/ 
     - notebooks/
@@ -32,8 +35,13 @@ pip install -r requirements.txt
       - config.py
       - preprocessing.py
       - ...
+- sql/
+    - README.md -> this is where you will find documentation on database setup
+    - docker-compose.yml -> docker file to setup and get database working with postgress
+    - init.sql -> database sql file used to create tables.
 - requirements.txt
 - .gitignore
 - READEM.MD
+
 
 For collaboration or questions, open an issue or contact the repo owner: AffableMelon.
