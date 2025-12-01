@@ -1,4 +1,4 @@
-flake.*
+# flake.*
 .ipynb_checkpoints/
 \__pycache__/
 *.pyc
